@@ -1,0 +1,16 @@
+[Train] Epoch 1 / 200 train_loss: 2333.9175380475726
+[Val]   Epoch 1 / 200 val_loss: 40.64102765869141
+[Train] Epoch 2 / 200 train_loss: 39.3869468145752
+[Val]   Epoch 2 / 200 val_loss: 39.97897284769694
+[Train] Epoch 3 / 200 train_loss: 34.70204149135045
+[Val]   Epoch 3 / 200 val_loss: 38.563206544799804
+[Train] Epoch 4 / 200 train_loss: 32.56769059701102
+[Val]   Epoch 4 / 200 val_loss: 33.80380149719238
+[Train] Epoch 5 / 200 train_loss: 31.318635579572405
+[Val]   Epoch 5 / 200 val_loss: 38.86127219930013
+[Train] Epoch 6 / 200 train_loss: 30.3232762890625
+[Val]   Epoch 6 / 200 val_loss: 33.87379979777018
+[Train] Epoch 7 / 200 train_loss: 29.60407169328962
+[Val]   Epoch 7 / 200 val_loss: 36.17281465942383
+[Train] Epoch 8 / 200 train_loss: 29.049446469116212
+[Val]   Epoch 8 / 200 val_loss: 34.86714226542155

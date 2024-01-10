@@ -1,0 +1,2 @@
+[Train] Epoch 1 / 200 train_loss: 0.08580035719697333
+[Val]   Epoch 1 / 200 val_loss: 0.05864470465940998

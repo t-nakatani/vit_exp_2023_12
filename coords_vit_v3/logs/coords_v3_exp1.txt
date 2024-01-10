@@ -1,0 +1,10 @@
+[Train] Epoch 106 / 110 train_loss: 11.036671975976256
+[Val] Epoch 106 / 110 val_loss: 11.52628908766077
+[Train] Epoch 107 / 110 train_loss: 11.055386398480907
+[Val] Epoch 107 / 110 val_loss: 11.733860817361386
+[Train] Epoch 108 / 110 train_loss: 10.991301821791419
+[Val] Epoch 108 / 110 val_loss: 10.484735737455653
+[Train] Epoch 109 / 110 train_loss: 10.967554319939113
+[Val] Epoch 109 / 110 val_loss: 10.74156513873567
+[Train] Epoch 110 / 110 train_loss: 10.995226835006992
+[Val] Epoch 110 / 110 val_loss: 11.445256370179196
